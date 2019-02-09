@@ -3,6 +3,8 @@
   "description": "Gatsby default starter",
   "version": "1.0.0",
   "author": "Evan Lie",
+  "private": false,
+  "homepage": "https://evantaurusta.github.io/podcast-client",
   "dependencies": {
     "@material-ui/core": "^3.9.1",
     "@material-ui/icons": "^3.0.2",
